@@ -1,0 +1,2 @@
+# Java-Web-Application-Basic-
+It is a Basic Java Web Application Project that holds the features and mimics the structure of a basic student portal of a college. It holds a Login Interface and after that basic follow ups like, Marks Grades Leave Request Student Details Spotlights  I have also included the Data Base File  index.html is the Login Interface and from that other pages are interconnected.  Hope it is Useful!
